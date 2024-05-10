@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LXP\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\0225d78b-dbd7-408d-aa96-e477f2d4e551_1.png",
+      "PackagePath": "staticwebassets\\CourseThumbnailImages\\0225d78b-dbd7-408d-aa96-e477f2d4e551_1.png"
+    },
+    {
+      "Id": "D:\\LXP\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\8dde6e96-c2e9-435c-af8d-70db0842e97c_5.png",
+      "PackagePath": "staticwebassets\\CourseThumbnailImages\\8dde6e96-c2e9-435c-af8d-70db0842e97c_5.png"
+    },
+    {
+      "Id": "D:\\LXP\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\8e69c23b-6c49-4fea-a758-2b3eb82e139a_5.png",
+      "PackagePath": "staticwebassets\\CourseThumbnailImages\\8e69c23b-6c49-4fea-a758-2b3eb82e139a_5.png"
+    },
+    {
+      "Id": "D:\\LXP\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\a40ca5fd-bf66-4d12-9f78-7f0e5345abd8_4.png",
+      "PackagePath": "staticwebassets\\CourseThumbnailImages\\a40ca5fd-bf66-4d12-9f78-7f0e5345abd8_4.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LXP.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LXP.Api.props",
+      "PackagePath": "build\\LXP.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LXP.Api.props",
+      "PackagePath": "buildMultiTargeting\\LXP.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LXP.Api.props",
+      "PackagePath": "buildTransitive\\LXP.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
